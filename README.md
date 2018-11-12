@@ -7,9 +7,9 @@ Except the dockerfile, this code refers to the tutorial here: https://github.com
 
 You first have to register your application here: https://apps.dev.microsoft.com
 
-Before building the application, you need to customize the g**raph-tutorial/.env** file accordingly. 
+Before building the application, you need to add the **graph-tutorial/.env** file.   
 
-Add your Microsoft application ID and password.
+Create a new file **.env** in directory **graph-tutorial**, copy the code below and add your Microsoft application ID and password.
 
 ```
 OAUTH_APP_ID=ADD YOUR APPLICATION ID
