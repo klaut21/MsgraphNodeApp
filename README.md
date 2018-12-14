@@ -1,5 +1,5 @@
 # MsgraphNodeApp
-Docker alpine image with node.js and python to show basic Microsoft Graph authentification.
+Docker alpine image with node.js to show basic Microsoft Graph authentification.
 
 Except the dockerfile, this code refers to the tutorial here: https://github.com/microsoftgraph/msgraph-training-nodeexpressapp
 
